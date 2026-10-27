@@ -1,0 +1,9 @@
+{
+  "name": "BugFree.VR",
+  "references": [
+    "Unity.InputSystem",
+    "BugFree.Core"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
